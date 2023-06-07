@@ -1,0 +1,38 @@
+  <div class="u-align-center u-container-style u-black u-list-item u-repeater-item u-shape-rectangle u-list-item-1">
+              <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-1">
+                <div class="u-container-style u-group u-shape-circle u-white u-group-1">
+                  <div class="u-container-layout u-valign-middle u-container-layout-2">
+                    <h3 class="u-align-center u-text u-text-default u-text-black-50 u-text-1" data-animation-name="counter" data-animation-event="scroll" data-animation-duration="3000">COMANDOS JAVA</h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-align-center u-container-style u-black u-list-item u-repeater-item u-shape-rectangle u-list-item-2">
+              <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-3">
+                <div class="u-container-style u-group u-shape-circle u-white u-group-2">
+                  <div class="u-container-layout u-valign-middle u-container-layout-4">
+                    <h3 class="u-align-center u-text u-text-default u-text-black-50 u-text-2" data-animation-name="counter" data-animation-event="scroll" data-animation-duration="3000">POKEDESAFIO</h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-align-center u-container-style u-black u-list-item u-repeater-item u-shape-rectangle u-list-item-3">
+              <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-5">
+                <div class="u-container-style u-group u-shape-circle u-white u-group-3">
+                  <div class="u-container-layout u-valign-middle u-container-layout-6">
+                    <h3 class="u-align-center u-text u-text-default u-text-black-50 u-text-3" data-animation-name="counter" data-animation-event="scroll" data-animation-duration="3000">CAPITAIS</h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-align-center u-container-style u-black u-list-item u-repeater-item u-shape-rectangle u-list-item-4">
+              <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-7">
+                <div class="u-container-style u-group u-shape-circle u-white u-group-4">
+                  <div class="u-container-layout u-valign-middle u-container-layout-8">
+                    <h3 class="u-align-center u-text u-text-default u-text-black-50 u-text-4" data-animation-name="counter" data-animation-event="scroll" data-animation-duration="3000">DIA DA MULHER</h3>
+                  </div>
+                </div>
+              </div>
+            </div>    (linha 71)
+
+
